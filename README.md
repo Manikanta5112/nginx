@@ -1,7 +1,6 @@
 # 🚀 NGINX
 
 ---
-
 ## 🎯 What You'll Learn
 
 | Section | Topic                                      | Description                                                        |
